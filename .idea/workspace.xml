@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="82d9cb39-a66b-4100-b715-79cdfab4a2e4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1Y5PfwKEMNLXp8TnC1FbWsiEVck" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RunManager" selected="Ruby.test_check">
+    <configuration name="IRB console: CheckWriter" type="IrbRunConfigurationType" factoryName="IRB console" temporary="true">
+      <module name="CheckWriter" />
+      <IRB_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
+      <IRB_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <IRB_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <IRB_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <IRB_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" />
+      <IRB_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$APPLICATION_HOME_DIR$/plugins/ruby/rb/testing/runner/irb.rb" />
+      <IRB_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="--prompt simple" />
+      <IRB_RUN_CONFIG NAME="IS_RAILS_CONSOLE" VALUE="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="checkwriter" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="CheckWriter" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/checkwriter.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="my_test_check" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="CheckWriter" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/my_test_check.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_check" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="CheckWriter" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/test_check.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_all_nums" type="TestUnitRunConfigurationType" factoryName="Test::Unit/Shoulda/Minitest" temporary="true" nameIsGenerated="true">
+      <module name="CheckWriter" />
+      <predefined_log_file enabled="true" id="RUBY_TESTUNIT" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="JRUBY_OPTS" value="-X+O" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/test_check.rb" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_METHOD_NAME" VALUE="test_all_nums" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_METHOD" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_OPTIONS" VALUE="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Ruby.test_check" />
+        <item itemvalue="Test::Unit/Shoulda/Minitest.test_all_nums" />
+        <item itemvalue="Ruby.my_test_check" />
+        <item itemvalue="IRB console.IRB console: CheckWriter" />
+        <item itemvalue="Ruby.checkwriter" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpringUtil" SPRING_PRE_LOADER_OPTION="true" RAKE_SPRING_PRE_LOADER_OPTION="true" RAILS_SPRING_PRE_LOADER_OPTION="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="82d9cb39-a66b-4100-b715-79cdfab4a2e4" name="Default Changelist" comment="" />
+      <created>1582229588682</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582229588682</updated>
+      <workItem from="1582229591112" duration="254000" />
+      <workItem from="1582229924732" duration="1232000" />
+      <workItem from="1582231174663" duration="8543000" />
+      <workItem from="1582408427719" duration="4658000" />
+      <workItem from="1582490912451" duration="6000" />
+      <workItem from="1582521039795" duration="1247000" />
+      <workItem from="1582559255786" duration="2322000" />
+      <workItem from="1582578959897" duration="3403000" />
+      <workItem from="1582659439923" duration="6790000" />
+      <workItem from="1582736650941" duration="704000" />
+      <workItem from="1582741232795" duration="348000" />
+      <workItem from="1582745299938" duration="1049000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="605" y="277" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1582230656799">
+      <screen x="0" y="0" width="1707" height="879" />
+    </state>
+    <state x="605" y="277" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1707.879@0.0.1707.879" timestamp="1582230656799" />
+    <state x="635" y="182" key="FileChooserDialogImpl" timestamp="1582231257959">
+      <screen x="0" y="0" width="1707" height="879" />
+    </state>
+    <state x="635" y="182" key="FileChooserDialogImpl/0.0.1707.879@0.0.1707.879" timestamp="1582231257959" />
+    <state width="1664" height="360" key="GridCell.Tab.0.bottom" timestamp="1582737847504">
+      <screen x="0" y="0" width="1707" height="879" />
+    </state>
+    <state width="1664" height="360" key="GridCell.Tab.0.bottom/0.0.1707.879@0.0.1707.879" timestamp="1582737847504" />
+    <state width="1664" height="360" key="GridCell.Tab.0.center" timestamp="1582737847504">
+      <screen x="0" y="0" width="1707" height="879" />
+    </state>
+    <state width="1664" height="360" key="GridCell.Tab.0.center/0.0.1707.879@0.0.1707.879" timestamp="1582737847504" />
+    <state width="1664" height="360" key="GridCell.Tab.0.left" timestamp="1582737847503">
+      <screen x="0" y="0" width="1707" height="879" />
+    </state>
+    <state width="1664" height="360" key="GridCell.Tab.0.left/0.0.1707.879@0.0.1707.879" timestamp="1582737847503" />
+    <state width="1664" height="360" key="GridCell.Tab.0.right" timestamp="1582737847504">
+      <screen x="0" y="0" width="1707" height="879" />
+    </state>
+    <state width="1664" height="360" key="GridCell.Tab.0.right/0.0.1707.879@0.0.1707.879" timestamp="1582737847504" />
+    <state x="117" y="54" key="SettingsEditor" timestamp="1582233967082">
+      <screen x="0" y="0" width="1707" height="879" />
+    </state>
+    <state x="117" y="54" key="SettingsEditor/0.0.1707.879@0.0.1707.879" timestamp="1582233967082" />
+    <state x="90" y="186" width="672" height="678" key="search.everywhere.popup" timestamp="1582255834331">
+      <screen x="0" y="0" width="1707" height="879" />
+    </state>
+    <state x="90" y="186" width="672" height="678" key="search.everywhere.popup/0.0.1707.879@0.0.1707.879" timestamp="1582255834331" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/CheckWriter_v2@IRB_console__CheckWriter.rcov" NAME="IRB console: CheckWriter Coverage Results" MODIFIED="1582661768323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="CheckWriter" />
+    <SUITE FILE_PATH="coverage/CheckWriter_v2@test_check.rcov" NAME="test_check Coverage Results" MODIFIED="1582737411882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="CheckWriter" />
+    <SUITE FILE_PATH="coverage/CheckWriter_v2@my_test_check.rcov" NAME="my_test_check Coverage Results" MODIFIED="1582693372152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="CheckWriter" />
+    <SUITE FILE_PATH="coverage/CheckWriter@test_all_nums.rcov" NAME="test_all_nums Coverage Results" MODIFIED="1582561641103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="CheckWriter" />
+    <SUITE FILE_PATH="coverage/CheckWriter_v2@test_all_nums.rcov" NAME="test_all_nums Coverage Results" MODIFIED="1582693602361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="CheckWriter" />
+    <SUITE FILE_PATH="coverage/CheckWriter@IRB_console__CheckWriter.rcov" NAME="IRB console: CheckWriter Coverage Results" MODIFIED="1582231979966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="CheckWriter" />
+    <SUITE FILE_PATH="coverage/CheckWriter@checkwriter.rcov" NAME="checkwriter Coverage Results" MODIFIED="1582232031736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="CheckWriter" />
+    <SUITE FILE_PATH="coverage/CheckWriter@test_check.rcov" NAME="test_check Coverage Results" MODIFIED="1582559579519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="CheckWriter" />
+    <SUITE FILE_PATH="coverage/CheckWriter@my_test_check.rcov" NAME="my_test_check Coverage Results" MODIFIED="1582561432189" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="CheckWriter" />
+  </component>
+</project>
